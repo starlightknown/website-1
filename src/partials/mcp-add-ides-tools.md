@@ -48,6 +48,9 @@ You can add the MCP server to various AI tools and code editors:
 {% cards_item href="/docs/tooling/mcp/opencode" title="OpenCode" image="/images/docs/mcp/logos/dark/opencode.svg" %}
 {% /cards_item %}
 
+{% cards_item href="/docs/tooling/mcp/zenflow" title="Zenflow" image="/images/docs/mcp/logos/dark/zenflow.svg" %}
+{% /cards_item %}
+
 {% cards_item href="/docs/tooling/mcp/antigravity" title="Google Antigravity" image="/images/docs/mcp/logos/dark/google-antigravity.svg" %}
 {% /cards_item %}
 
