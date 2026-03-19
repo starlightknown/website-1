@@ -107,7 +107,8 @@
                 {
                     label: 'Realtime',
                     href: '/docs/apis/realtime',
-                    icon: 'icon-clock'
+                    icon: 'icon-clock',
+                    isParent: true
                 },
                 {
                     label: 'REST',
@@ -144,6 +145,16 @@
                     label: 'MCP Server',
                     href: '/docs/tooling/mcp',
                     icon: 'web-icon-mcp'
+                },
+                {
+                    label: 'Skills',
+                    href: '/docs/tooling/skills',
+                    icon: 'web-icon-skills'
+                },
+                {
+                    label: 'Arena',
+                    href: '/docs/tooling/arena',
+                    icon: 'web-icon-arena'
                 },
                 {
                     label: 'The Appwriter',
